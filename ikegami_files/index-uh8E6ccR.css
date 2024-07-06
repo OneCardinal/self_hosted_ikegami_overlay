@@ -41,6 +41,7 @@
     word-break: keep-all;
     white-space: nowrap;
     text-overflow: clip
+    text-decoration: underline;
 }
 
 .c-user-cell .user-cell-wrap {
