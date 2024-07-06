@@ -442,7 +442,7 @@
     background: #11111180;
     font-size: .75rem;
     text-shadow: 0 0 .3rem #000;
-    border-bottom: 1px #470000;
+    border-bottom: 1px solid #470000;
 }
 
 #root.cell-opaque .c-navbar-wrapper {
