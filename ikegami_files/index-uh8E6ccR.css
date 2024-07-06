@@ -471,6 +471,7 @@
     word-break: keep-all;
     white-space: nowrap;
     text-overflow: clip
+    border-bottom: 1px solid red
 }
 
 .c-navbar-wrapper .location time {
