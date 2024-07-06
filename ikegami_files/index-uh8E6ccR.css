@@ -442,7 +442,7 @@
     background: #11111180;
     font-size: .75rem;
     text-shadow: 0 0 .3rem #000;
-    border-bottom: 2px solid #470000;
+    border-bottom: 2px solid #8B0000
 }
 
 #root.cell-opaque .c-navbar-wrapper {
@@ -476,7 +476,7 @@
 
 .c-navbar-wrapper .location time {
     background: none;
-    color: #470000
+    color: #8B0000
 }
 
 .c-navbar-wrapper .location time .s:before {
