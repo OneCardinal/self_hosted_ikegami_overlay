@@ -41,12 +41,11 @@
     word-break: keep-all;
     white-space: nowrap;
     text-overflow: clip
-    text-decoration: underline;
 }
 
 .c-user-cell .user-cell-wrap {
     display: flex;
-    flex-direction: column;
+    flex-direction: column;f
     justify-content: center;
     align-content: stretch;
     width: 100%;
@@ -443,6 +442,7 @@
     background: #11111180;
     font-size: .75rem;
     text-shadow: 0 0 .3rem #000
+    border-bottom: 1px solid red
 }
 
 #root.cell-opaque .c-navbar-wrapper {
