@@ -476,7 +476,7 @@
 
 .c-navbar-wrapper .location time {
     background: none;
-    color: #EE4B2B
+    color: #ff0000
 }
 
 .c-navbar-wrapper .location time .s:before {
@@ -593,7 +593,7 @@
     display: inline-block;
     align-items: center;
     color: #fff!important;
-    background-color: #EE4B2B;
+    background-color: #ff0000;
     width: 2.75rem;
     height: 1.25rem;
     margin-right: .125rem
