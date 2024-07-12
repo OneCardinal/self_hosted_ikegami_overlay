@@ -597,6 +597,7 @@
     width: 2.75rem;
     height: 1.25rem;
     margin-right: .125rem
+    margin-left: .125rem
 }
 
 #root.theme-tokyu .c-navbar-wrapper .info {
