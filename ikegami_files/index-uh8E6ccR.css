@@ -1621,7 +1621,7 @@ html,body,#root {
 }
 
 .scheme-kagerou-material .class-vpr {
-    --job-color: rgb(139, 0, 0)
+    --job-color: rgb(54, 53, 53)
 }
 
 .scheme-kagerou-material .class-brd,.scheme-kagerou-material .class-arc {
@@ -1641,7 +1641,7 @@ html,body,#root {
 }
 
 .scheme-kagerou-material .class-rdm {
-    --job-color: rgb(54, 53, 53)
+    --job-color: rgb(139, 0, 0)
 }
 
 .scheme-kagerou-material .class-pct {
